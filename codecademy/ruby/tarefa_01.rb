@@ -3,8 +3,8 @@
 # Teste comentário 1 linha
 
 =begin
-Teste
-comentário
-várias
-linhas
+	Teste
+	comentário
+	várias
+	linhas
 =end
