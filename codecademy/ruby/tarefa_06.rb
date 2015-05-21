@@ -1,6 +1,6 @@
-# Captura um texto do usuário e depois captura um grupo
-# de palavras e substitui estas palavras no texto inicial
-# pela palavra REDACTED
+# TAREFA 06:  Captura um texto do usuário e depois captura
+# um grupo de palavras e substitui estas palavras no texto
+# inicial pela palavra REDACTED
 
 puts "digite um texto: "
 text = gets.chomp
@@ -9,7 +9,7 @@ puts "digite as palavras para busca: "
 redact = gets.chomp
 redact.downcase!
 words = text.split(" ")
-redact_split = redact.split(" ")
+redact_split = redact(" ")
 resultado = ""
 marca = 0
 words.each do |words|

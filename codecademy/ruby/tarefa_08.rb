@@ -1,5 +1,6 @@
-# Lê uma frase do usuário, contabiliza as palavras e ordena 
-# as palavras pela quantidade de incidências
+# TAREFA 08:  Lê uma frase do usuário, contabiliza as
+# palavras e ordena as palavras pela quantidade de
+# incidências
 
 puts "Entre com uma frase:"
 text = gets.chomp
