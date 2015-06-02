@@ -1,0 +1,3 @@
+Parte 1:  *** Tudo OK
+Parte 2:  Método das Consoantes
+Parte 3:  Raise
